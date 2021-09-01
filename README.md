@@ -1,4 +1,4 @@
 - 👋 Hey!
-- 👀 Lycéen au lycée Beaupré, 1er spé Math/NSI/SI
+- 👀 Lycéen au lycée Beaupré, Terminale spé Math/NSI
 - 📫 “Cookie : Anciennement petit gâteau sucré, qu’on acceptait avec plaisir. Aujourd’hui : petit fichier informatique drôlement salé, qu’il faut refuser” Luc Fayard
 - 🌱 Coding process...
